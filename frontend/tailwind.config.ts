@@ -11,6 +11,14 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        mint: "#A1E3D8",
+        darkBlue: "#003B5C",
+        lightBlue: "#005377",
+        darkGreen: "#007761",
+        lightGreen: "#008F7A",
+      },
+      fontFamily: {
+        cairo: ['"Cairo"', 'sans-serif'],
       },
     },
   },
